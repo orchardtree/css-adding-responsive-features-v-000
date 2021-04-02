@@ -66,7 +66,7 @@
   
   #navbar nav a {
     border: 0;
-          padding: 0px;
+    padding: 0px;
   }
   
   #navbar .menu {
@@ -74,10 +74,9 @@
   }
   
   #navbar nav a.menu-icon {
-    display: block;
+    display: initial;
     font-size: 2em;
     width: 1em;
-          padding: 0px;
   }
   
   div#logo {

@@ -66,6 +66,7 @@
   
   #navbar nav a {
     border: 0;
+        padding: 0;
   }
   
   #navbar .menu {
@@ -77,7 +78,6 @@
     font-size: 2em;
     text-align: left;
     width: 1em;
-    padding: 0;
   }
   
   div#logo {
